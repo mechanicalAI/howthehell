@@ -46,9 +46,9 @@ setup(
         'Topic :: Documentation',
     ],
     keywords='howdou help console command line answer',
-    author='Chris Spencer',
-    author_email='chrisspen@gmail.com',
-    url='https://github.com/chrisspen/howdou',
+    author='Mike Lange',
+    author_email='mike@mikelange.com',
+    url='https://github.com/motekim/howthehell',
     license='MIT',
     packages=find_packages(),
     entry_points={
